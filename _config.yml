@@ -1,0 +1,9 @@
+title: Joseph Haber | Fluvial Geomorphology
+description: Course portfolio for USU Fluvial Geomorphology (CEWA 6150, Spring 2025) — Reading Riverscapes
+theme: minima
+url: https://ohjoehaber.github.io
+baseurl: /fluvial-geomorphology
+header_pages:
+  - field-notebook.md
+  - assignments.md
+  - resources.md
